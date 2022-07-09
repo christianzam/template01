@@ -9,7 +9,6 @@ inject_into_file 'Gemfile', before: 'group :development, :test do' do
     gem 'font-awesome-sass'
     gem 'httparty'
     gem 'pg_search'
-    gem 'sass-rails'
     gem 'simple_form'  
   RUBY
 end
